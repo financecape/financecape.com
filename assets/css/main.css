@@ -7,6 +7,23 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+
+.meet-team-img {
+   border-radius: 50%;
+   width:   100px;
+   height: 100px;
+   margin: auto;
+   display: block;
+}
+
+.meet-team-item {
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+.meet-team-desc {
+   text-align: center;
+}
+
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -3366,6 +3383,7 @@
 		padding: 13em 0 11em 0;
 		background-color: #0c0c0c;
 		/*background-image: url("../../images/banner.jpg");*/
+            background-image: url('../../ourassets/banner-1082652_1920.jpg');
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: 15% left;
